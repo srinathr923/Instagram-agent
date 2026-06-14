@@ -1,0 +1,6 @@
+2026/06/14-15:57:58.932 229135 Reusing MANIFEST /Users/srinath/instagram_agent/chrome_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/14-15:57:58.934 229135 Recovering log #3
+2026/06/14-15:57:58.935 229135 Reusing old log /Users/srinath/instagram_agent/chrome_profile/Default/Local Storage/leveldb/000003.log 
+2026/06/14-15:58:12.127 229138 Level-0 table #5: started
+2026/06/14-15:58:12.131 229138 Level-0 table #5: 16403 bytes OK
+2026/06/14-15:58:12.134 229138 Delete type=0 #3
